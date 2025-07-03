@@ -31,4 +31,4 @@ To run any project from this repo:
 
 1. Clone the repo or download the ZIP:
    ```bash
-   git clone https://github.com/Umair-Codees/Mobile-Application-Development.git
+   git clone https://github.com/CodeWith-Umair/Mobile-Application-Development.git
